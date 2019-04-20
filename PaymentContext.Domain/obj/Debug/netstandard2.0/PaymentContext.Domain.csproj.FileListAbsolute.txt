@@ -1,0 +1,12 @@
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.deps.json
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.dll
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csprojAssemblyReference.cache
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfo.cs
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.dll
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/Users/gabrielcardoso/Documents/projetos/balta.io/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CopyComplete
